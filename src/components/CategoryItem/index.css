@@ -1,0 +1,22 @@
+.category-button {
+  border: none;
+  background-color: transparent;
+  color: #64748b;
+  font-size: 18px;
+  margin-bottom: 14px;
+  cursor: pointer;
+  outline: none;
+}
+
+.category-item {
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.applyColor {
+  color: #0967d2;
+}
