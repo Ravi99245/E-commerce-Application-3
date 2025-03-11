@@ -50,7 +50,7 @@
 }
 
 .no-products-container {
-  width: 70%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -59,7 +59,7 @@
 }
 
 .no-products-image {
-  width: 60%;
+  width: 70%;
 }
 
 .no-products-heading {
